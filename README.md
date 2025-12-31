@@ -1,4 +1,4 @@
-# Port Scanner Security App
+# Port Scanner Security App (WIP)
 
 Aplicación en Python para escanear periódicamente puertos locales en Windows, detectar puertos abiertos, cerrados e inactivos, y gestionar el cierre de puertos abiertos pero inactivos. Pensada para uso en ciberseguridad local.
 
